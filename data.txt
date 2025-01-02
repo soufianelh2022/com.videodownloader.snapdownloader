@@ -7,10 +7,10 @@
      "ShowLoadingAds": true,
 
     
-    "MaxBanner": "cca99258e7ab7d13",
-    "MaxNative": "243f0e359954bf98",
-    "MaxInterstitial": "4b5a12367e5fbf42",
-    "MaxOpen": "ad06542cb66ace98"
+    "MaxBanner": "246e6ee4af0b99df",
+    "MaxNative": "d9612a54fd8e9fc5",
+    "MaxInterstitial": "d506a36c45c0abf4",
+    "MaxOpen": "5e51425ebd152f92"
    
    
    
